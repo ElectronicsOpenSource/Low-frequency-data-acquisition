@@ -1,6 +1,9 @@
 # Low-frequency-data-acquisition
 A board design with example code for data acquisition with 14-, 16-, or 18-bit resolution at 100 up to 1000 kSPS
 
+# For more information visit OSPESA on google groups
+https://groups.google.com/forum/#!forum/ospesa
+
 Supported ADCs (to be tested):
 These are all the ADCs that should be supported. The footprint used is the 10-MSOP. All ADCs are either differential or pseudo-differential (check for your application).
 
